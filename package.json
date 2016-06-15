@@ -1,15 +1,16 @@
 {
   "name": "http-proxy",
-  "version": "0.10.4",
+  "version": "0.10.5",
   "description": "A full-featured http reverse proxy for node.js",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "maintainers": [
     "indexzero <charlie@nodejitsu.com>",
-    "AvianFlu <avianflu@nodejitsu.com>"
+    "AvianFlu <avianflu@nodejitsu.com>",
+    "dmilisic <danijel.milisic@drap.hr>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/nodejitsu/node-http-proxy.git"
+    "url": "http://github.com/drap-hr/node-http-proxy.git"
   },
   "keywords": [
     "reverse",
